@@ -26,10 +26,12 @@ public class Comparators {
     public boolean isEqual(int a, int b){
         if(a==b){
             return false;
+        }else{
+            return true;
         }
     }
 
-}
+
 
     /**
      * @param a the first number to be compared.
